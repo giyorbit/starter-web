@@ -13,4 +13,4 @@ Please fork this repository and then issue Pull Request for review
 
 ### Copyright
 
-GEO SARM YIPYIP
+GEO SARM YIPYIP. all rights reserved stash

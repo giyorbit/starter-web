@@ -5,3 +5,7 @@ TEST GEO
 ## Purpose
 ADDING A TEXT HERE FOR GIT DIFF TEST
 Sample website with plenty of files for demos
+
+### Copyright
+
+GEO SARM YIPYIP

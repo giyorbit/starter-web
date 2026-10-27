@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    <Whats up with the world!>
 
 # TECHNOLOGY COLOPHON
 
